@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137029580333",
+    "project_id": "babylon-11a77",
+    "storage_bucket": "babylon-11a77.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137029580333:android:57f8d8d90887904d962aa4",
+        "android_client_info": {
+          "package_name": "com.example.testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8GV8HHitMf8g_fNdxkFxczB5RT6WWlUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
